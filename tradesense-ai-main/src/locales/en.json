@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "leaderboard": "Leaderboard",
+    "pricing": "Pricing",
+    "community": "Community",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "profile": "Profile"
+  },
+  "hero": {
+    "title": "Master Trading Without The Risk",
+    "subtitle": "Practice trading with virtual capital. Prove your skills. Get funded.",
+    "cta": "Start Your Challenge",
+    "secondary": "View Pricing"
+  },
+  "challenge": {
+    "title": "Challenge Status",
+    "balance": "Current Balance",
+    "dailyPnl": "Daily P&L",
+    "totalPnl": "Total P&L",
+    "profitTarget": "Profit Target",
+    "maxDailyLoss": "Max Daily Loss",
+    "maxTotalLoss": "Max Total Loss",
+    "status": "Status",
+    "active": "Active",
+    "success": "Success",
+    "failed": "Failed",
+    "pending": "Pending"
+  },
+  "trade": {
+    "title": "Trade Panel",
+    "buy": "Buy",
+    "sell": "Sell",
+    "amount": "Amount",
+    "leverage": "Leverage",
+    "execute": "Execute Trade",
+    "openPositions": "Open Positions",
+    "noPositions": "No open positions"
+  },
+  "pricing": {
+    "title": "Choose Your Challenge",
+    "subtitle": "Select a plan that fits your trading goals",
+    "starter": "Starter",
+    "professional": "Professional",
+    "elite": "Elite",
+    "capital": "Capital",
+    "profitTarget": "Profit Target",
+    "maxDailyLoss": "Max Daily Loss",
+    "maxTotalLoss": "Max Total Loss",
+    "profitSplit": "Profit Split",
+    "getStarted": "Get Started"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "rank": "Rank",
+    "trader": "Trader",
+    "profit": "Profit",
+    "winRate": "Win Rate",
+    "trades": "Trades"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy"
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "signInToContinue": "Sign in to continue trading",
+    "createAccount": "Create an account",
+    "startJourney": "Start your trading journey",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?",
+    "resetPassword": "Reset Password",
+    "resetDescription": "Enter your email to receive a reset link",
+    "sendResetLink": "Send Reset Link",
+    "backToLogin": "Back to login",
+    "resetEmailSent": "Email sent!",
+    "resetEmailSentDesc": "Check your inbox to reset your password."
+  },
+  "community": {
+    "zone": "Community Zone",
+    "description": "Connect with other traders, share strategies, and learn together.",
+    "chat": "Community Chat",
+    "messages": "messages",
+    "loginToChat": "Log in to join the chat",
+    "noMessages": "No messages yet",
+    "beFirstToChat": "Be the first to send a message!",
+    "typeMessage": "Type your message...",
+    "activeTraders": "Active Traders",
+    "successRate": "Success Rate",
+    "liveSupport": "Live Support"
+  }
+}

@@ -1,0 +1,7 @@
+project_id = "uzmtuquqqrmykhgnbrvk"
+
+[functions.reset-daily-pnl]
+verify_jwt = false
+
+[functions.scrape-morocco-stocks]
+verify_jwt = false

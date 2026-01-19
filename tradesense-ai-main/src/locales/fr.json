@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "dashboard": "Tableau de bord",
+    "leaderboard": "Classement",
+    "pricing": "Tarifs",
+    "community": "Communauté",
+    "login": "Connexion",
+    "signup": "Inscription",
+    "logout": "Déconnexion",
+    "profile": "Profil"
+  },
+  "hero": {
+    "title": "Maîtrisez le Trading Sans Risque",
+    "subtitle": "Pratiquez le trading avec du capital virtuel. Prouvez vos compétences. Soyez financé.",
+    "cta": "Commencer le Défi",
+    "secondary": "Voir les Tarifs"
+  },
+  "challenge": {
+    "title": "Statut du Défi",
+    "balance": "Solde Actuel",
+    "dailyPnl": "P&L Journalier",
+    "totalPnl": "P&L Total",
+    "profitTarget": "Objectif de Profit",
+    "maxDailyLoss": "Perte Max Journalière",
+    "maxTotalLoss": "Perte Max Totale",
+    "status": "Statut",
+    "active": "Actif",
+    "success": "Réussi",
+    "failed": "Échoué",
+    "pending": "En attente"
+  },
+  "trade": {
+    "title": "Panel de Trading",
+    "buy": "Acheter",
+    "sell": "Vendre",
+    "amount": "Montant",
+    "leverage": "Effet de levier",
+    "execute": "Exécuter le Trade",
+    "openPositions": "Positions Ouvertes",
+    "noPositions": "Aucune position ouverte"
+  },
+  "pricing": {
+    "title": "Choisissez Votre Défi",
+    "subtitle": "Sélectionnez un plan adapté à vos objectifs de trading",
+    "starter": "Débutant",
+    "professional": "Professionnel",
+    "elite": "Élite",
+    "capital": "Capital",
+    "profitTarget": "Objectif de Profit",
+    "maxDailyLoss": "Perte Max Journalière",
+    "maxTotalLoss": "Perte Max Totale",
+    "profitSplit": "Partage des Profits",
+    "getStarted": "Commencer"
+  },
+  "leaderboard": {
+    "title": "Classement",
+    "rank": "Rang",
+    "trader": "Trader",
+    "profit": "Profit",
+    "winRate": "Taux de Réussite",
+    "trades": "Trades"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité"
+  },
+  "auth": {
+    "welcomeBack": "Bon retour",
+    "signInToContinue": "Connectez-vous pour continuer",
+    "createAccount": "Créer un compte",
+    "startJourney": "Commencez votre aventure de trading",
+    "email": "Email",
+    "password": "Mot de passe",
+    "fullName": "Nom complet",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "noAccount": "Pas de compte ?",
+    "hasAccount": "Déjà un compte ?",
+    "forgotPassword": "Mot de passe oublié ?",
+    "resetPassword": "Réinitialiser le mot de passe",
+    "resetDescription": "Entrez votre email pour recevoir un lien de réinitialisation",
+    "sendResetLink": "Envoyer le lien",
+    "backToLogin": "Retour à la connexion",
+    "resetEmailSent": "Email envoyé !",
+    "resetEmailSentDesc": "Vérifiez votre boîte mail pour réinitialiser votre mot de passe."
+  },
+  "community": {
+    "zone": "Zone Communautaire",
+    "description": "Échangez avec d'autres traders, partagez vos stratégies et apprenez ensemble.",
+    "chat": "Chat Communautaire",
+    "messages": "messages",
+    "loginToChat": "Connectez-vous pour participer au chat",
+    "noMessages": "Aucun message pour le moment",
+    "beFirstToChat": "Soyez le premier à envoyer un message !",
+    "typeMessage": "Écrivez votre message...",
+    "activeTraders": "Traders Actifs",
+    "successRate": "Taux de Réussite",
+    "liveSupport": "Support en Direct"
+  }
+}

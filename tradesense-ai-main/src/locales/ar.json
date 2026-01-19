@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "dashboard": "لوحة التحكم",
+    "leaderboard": "المتصدرين",
+    "pricing": "الأسعار",
+    "community": "المجتمع",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "profile": "الملف الشخصي"
+  },
+  "hero": {
+    "title": "أتقن التداول بدون مخاطر",
+    "subtitle": "تدرب على التداول برأس مال افتراضي. أثبت مهاراتك. احصل على التمويل.",
+    "cta": "ابدأ التحدي",
+    "secondary": "عرض الأسعار"
+  },
+  "challenge": {
+    "title": "حالة التحدي",
+    "balance": "الرصيد الحالي",
+    "dailyPnl": "الربح/الخسارة اليومي",
+    "totalPnl": "الربح/الخسارة الإجمالي",
+    "profitTarget": "هدف الربح",
+    "maxDailyLoss": "الحد الأقصى للخسارة اليومية",
+    "maxTotalLoss": "الحد الأقصى للخسارة الإجمالية",
+    "status": "الحالة",
+    "active": "نشط",
+    "success": "ناجح",
+    "failed": "فاشل",
+    "pending": "قيد الانتظار"
+  },
+  "trade": {
+    "title": "لوحة التداول",
+    "buy": "شراء",
+    "sell": "بيع",
+    "amount": "المبلغ",
+    "leverage": "الرافعة المالية",
+    "execute": "تنفيذ الصفقة",
+    "openPositions": "المراكز المفتوحة",
+    "noPositions": "لا توجد مراكز مفتوحة"
+  },
+  "pricing": {
+    "title": "اختر تحديك",
+    "subtitle": "اختر الخطة المناسبة لأهدافك التجارية",
+    "starter": "المبتدئ",
+    "professional": "المحترف",
+    "elite": "النخبة",
+    "capital": "رأس المال",
+    "profitTarget": "هدف الربح",
+    "maxDailyLoss": "الحد الأقصى للخسارة اليومية",
+    "maxTotalLoss": "الحد الأقصى للخسارة الإجمالية",
+    "profitSplit": "تقسيم الأرباح",
+    "getStarted": "ابدأ الآن"
+  },
+  "leaderboard": {
+    "title": "المتصدرين",
+    "rank": "الترتيب",
+    "trader": "المتداول",
+    "profit": "الربح",
+    "winRate": "نسبة الفوز",
+    "trades": "الصفقات"
+  },
+  "footer": {
+    "rights": "جميع الحقوق محفوظة",
+    "terms": "شروط الخدمة",
+    "privacy": "سياسة الخصوصية"
+  },
+  "auth": {
+    "welcomeBack": "مرحباً بعودتك",
+    "signInToContinue": "سجل الدخول للمتابعة",
+    "createAccount": "إنشاء حساب",
+    "startJourney": "ابدأ رحلتك في التداول",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "fullName": "الاسم الكامل",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "resetDescription": "أدخل بريدك الإلكتروني لتلقي رابط إعادة التعيين",
+    "sendResetLink": "إرسال الرابط",
+    "backToLogin": "العودة لتسجيل الدخول",
+    "resetEmailSent": "تم الإرسال!",
+    "resetEmailSentDesc": "تحقق من بريدك الإلكتروني لإعادة تعيين كلمة المرور."
+  },
+  "community": {
+    "zone": "منطقة المجتمع",
+    "description": "تواصل مع المتداولين الآخرين، شارك الاستراتيجيات، وتعلم معًا.",
+    "chat": "دردشة المجتمع",
+    "messages": "رسائل",
+    "loginToChat": "سجل الدخول للانضمام للدردشة",
+    "noMessages": "لا توجد رسائل بعد",
+    "beFirstToChat": "كن أول من يرسل رسالة!",
+    "typeMessage": "اكتب رسالتك...",
+    "activeTraders": "المتداولون النشطون",
+    "successRate": "نسبة النجاح",
+    "liveSupport": "دعم مباشر"
+  }
+}
